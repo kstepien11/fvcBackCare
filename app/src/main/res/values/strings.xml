@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FVC back care</string>
+    <string name="title_activity_disclaimer_v2">FVC back care</string>
+
+    <string name="disclaimerText">
+    DISCLAIMER:&#8230;
+   \nIn order to proceed with the exercises included in this app please agree that you do NOT have:
+   \n&#8226;Heart problems (chest pain, stroke)
+   \n&#8226;Diabetes
+   \n&#8226;Asthma, Breathing or lung problems
+   \n&#8226;Seizures
+   \n&#8226;High blood pressure
+   \n&#8226;Back, joint or muscle problems
+   \n&#8226;Recent surgery
+   \n&#8226;Take medication
+   \n&#8226;Are not pregnant
+   \n&#8226;Any allergies
+   \n&#8226;Disabilities/Epilepsy
+    </string>
+    <string name="title_activity_exercises">Exercises</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Exercise no: %1$d</string>
+    <string name="exercise_description1">Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididuntut labore. </string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
